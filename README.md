@@ -1,5 +1,7 @@
 <h1 align="center">A L O H A 👋 </h1>
-![fondo-git](https://user-images.githubusercontent.com/81710678/193487840-d9a8af77-8773-48e5-8e37-207a91b0617b.gif)
+
+![fondo-git](https://user-images.githubusercontent.com/81710678/193487876-3d7415cf-6785-463f-96f9-d1fd75b8b1a2.gif)
+
 
 
 <h1 align="center">Hi 👋, I'm Lucia but you can find me as luciamols</h1>
