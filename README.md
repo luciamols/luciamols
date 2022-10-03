@@ -3,7 +3,7 @@
 ![fondo-git](https://user-images.githubusercontent.com/81710678/193487876-3d7415cf-6785-463f-96f9-d1fd75b8b1a2.gif)
 
 <h1 align="center">Hi 👋, I'm Lucia but you can find me as luciamols</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h2 align="center">A passionate Fullstack developer from Argentina 🇦🇷</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luciamols&label=Profile%20views&color=25253e&style=flat" alt="luciamols" /> </p>
 
